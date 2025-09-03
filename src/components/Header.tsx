@@ -78,21 +78,14 @@ export default function Header() {
               Products
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-              Suppliers
+              Halal-Blockchain
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
               Financing
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-              Halal-Blockchain
-            </a>
-            <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-               Innovation Hub
-            </a>
-            {/*
-            <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
               Innovation Hub
-            </a> */}
+            </a>
           </nav>
         </div>
       </div>
