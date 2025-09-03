@@ -81,16 +81,18 @@ export default function Header() {
               Suppliers
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-              Financing by Maybank Syariah
+              Financing
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-              Certification
+              Halal-Blockchain
             </a>
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-              MSME Dashboard
-            </a>            <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
+               Innovation Hub
+            </a>
+            {/*
+            <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
               Innovation Hub
-            </a>
+            </a> */}
           </nav>
         </div>
       </div>
